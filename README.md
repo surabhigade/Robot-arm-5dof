@@ -39,9 +39,7 @@ The result is a coordinate-driven robotic system with live 3D preview and Jacobi
 
 2. Upload Arduino firmware to Nano.
 
-3. Run the Python controller:
-  
-  python ik_GUI.py
+3. Run the Python controller: python ik_GUI.py
   
 4. Click "UPDATE VIEW" to preview.
 
