@@ -4,6 +4,10 @@ This project demonstrates a complete pipeline from mechanical design to mathemat
 The system allows commanding real-world Cartesian coordinates (X, Y, Z, Pitch) instead of manually tuning servo angles.
 
 ---
+## Collaborators
+- [rishimule](https://github.com/rishimule)
+
+---
 ## 1. Blog Documentation
 
 Full project write-up and detailed explanation:
@@ -43,6 +47,4 @@ The result is a coordinate-driven robotic system with live 3D preview and Jacobi
 
 5. Click "MOVE ROBOT" to execute.
 
----
-## Collaborators
-- [rishimule](https://github.com/rishimule)
+
