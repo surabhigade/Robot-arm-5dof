@@ -8,10 +8,9 @@ The system allows commanding real-world Cartesian coordinates (X, Y, Z, Pitch) i
 
 Full project write-up and detailed explanation:
  
-🔗 [Read the Blog Here]((https://medium.com/p/e40b554355a6))
+🔗 [Read the Blog Here](https://medium.com/p/e40b554355a6)
 
 ---
-
 ## 2. Project Overview
 
 This robot arm is built using micro servos (MG90S / SG90) and 3D printed components.
@@ -32,7 +31,6 @@ The result is a coordinate-driven robotic system with live 3D preview and Jacobi
 - Preview-before-move architecture
 
 ---
-
 ## 4. How to Run
 
 1. Update SERIAL_PORT inside the Python script.
@@ -44,5 +42,7 @@ The result is a coordinate-driven robotic system with live 3D preview and Jacobi
 4. Click "UPDATE VIEW" to preview.
 
 5. Click "MOVE ROBOT" to execute.
----
 
+---
+## Collaborators
+- [rishimule](https://github.com/rishimule)
